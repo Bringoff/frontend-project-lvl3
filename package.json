@@ -20,7 +20,9 @@
     "verbose": true,
     "testURL": "http://localhost/"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
