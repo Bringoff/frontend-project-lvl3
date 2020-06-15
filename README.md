@@ -1,0 +1,3 @@
+![Node.js CI](https://github.com/Bringoff/frontend-project-lvl3/workflows/Node%20CI/badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/82e97520b6eca9ce79d6/maintainability)](https://codeclimate.com/github/Bringoff/frontend-project-lvl3/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/82e97520b6eca9ce79d6/test_coverage)](https://codeclimate.com/github/Bringoff/frontend-project-lvl3/test_coverage)
+
+RSS Aggregator test project

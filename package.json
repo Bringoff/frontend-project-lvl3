@@ -4,7 +4,7 @@
   "description": "RSS Reader Playground",
   "private": true,
   "scripts": {
-    "test": "jest --colors"
+    "test": "jest --colors --passWithNoTests"
   },
   "repository": {
     "type": "git",
